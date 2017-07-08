@@ -1,0 +1,231 @@
+.bodyIndex {
+	background-color: #009688;
+	font-family: 'Roboto', sans-serif;
+}
+
+.bodyNadzorna {
+	font-family: 'Roboto', sans-serif;
+}
+
+#logo {
+	background-color: #00796B;
+	height: 530px;
+	text-align: center;
+	color: #B6B6B6;
+}
+
+#forma {
+	background-color: white;
+	padding-bottom: 70px;
+	padding-top: 50px;
+	padding-right: 80px;
+	padding-left: 80px;
+	text-align: center;
+	height: 530px;
+}
+
+.indexH2 {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	color: #00796B;
+}
+
+.form-group {
+	padding-bottom: 20px;
+	padding-top: 0;
+	width: 97%;
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.privatni-profil {
+	padding-top: 20px;
+	width: 98.7%;
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.upload-zadace {
+	padding-top: 20px;
+	width: 94%;
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.promjeniSliku {
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.btn-default {
+	color: #fff;
+	background-color: #00796B;
+	border-radius: 0;
+	margin-top: 20px;
+	border: 0;
+}
+
+.btn {
+	padding: 10px 60px;
+}
+
+.indexForma {
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.rowIndex{
+	margin-top: 70px;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.form-control {
+	border-radius: 0;
+}
+
+.form-controlIndex {
+	border: #fff;
+	border-bottom: 1px solid #B6B6B6!important;
+}
+
+a {
+	color: #B6B6B6;
+}
+
+header {
+	background-color: #00796B;
+	margin-bottom: 10px;
+}
+
+.nadzornaH3 {
+	text-align: right;
+	margin-top: -40px;
+	padding-right: 40px;
+	color: #B6B6B6;
+}
+
+header {
+	margin-top: -20px;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding: 5px;
+}
+
+h2 {
+	padding-left: 45px;
+	color: #B6B6B6;
+}
+
+.nadzornaBtn {
+	padding-left: 40px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 40px;
+	margin-top: 10px;
+}
+
+.korisniciSlike {
+	border-radius: 100%;
+	width: 40px;
+	height: 40px;
+}
+
+.slikaAvatara {
+	border-radius: 100%;
+	width: 32px;
+	height: 32px;
+}
+
+.slikaStatusa {
+	border-radius: 100%;
+	width: 40px;
+	height: 40px;
+}
+
+.profilAvatar {
+	border-radius: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+.status {
+	cursor: pointer;
+}
+.statusLiked {
+	color: green;
+}
+
+.panel-default {
+	border-radius: 0;
+	margin-top: 50px;
+	margin-bottom: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 97%;
+}
+
+.panel-heading {
+	background-color: #00796B!important;
+	border-radius: 0;
+	color: #B6B6B6!important;
+}
+
+.nadzornaForm {
+	padding-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 97%;
+}
+
+.panel-body {
+	padding-bottom: 10px;
+}
+
+hr {
+	margin-bottom: 10px;
+}
+
+.glyphicon-heart {
+	padding-left: 12px;
+	color: red;
+	font-size: 20px;
+}
+
+.oznacenaZadaca {
+	font-weight: bold;
+}
+
+.komentari {
+	text-align: right;
+	color: #B6B6B6;
+	margin-bottom: 0;
+}
+
+.odaberi-avatar {
+	width: 200px;
+}
+
+.promjena {
+	margin-left: 350px;
+	margin-top: -41px;
+}
+
+.komentiraj {
+	height: 34px;
+}
+
+.profil {
+	background-color: #00796B;
+	color: #B6B6B6;
+	width: 137px;
+}
+
+.odustani {
+	background-color: #ff5252;
+}
+
+.profilBtn {
+	margin-left: 30%;
+	margin-right: auto;
+}
